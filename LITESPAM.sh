@@ -2,7 +2,7 @@
 
 clear
 
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "SIL3NT"
 
 sleep 1
 
@@ -10,15 +10,15 @@ echo "\033[31;1m Macam-macam tool untuk spam"
 
 sleep 1
 
-echo "\033[33;1m Author: Mr.Rm"
+echo "\033[33;1m Author: SIL3NT"
 
 sleep 1
 
-echo "\033[32;1m ★contack: +15877711462"
+echo "\033[32;1m ★contack: Deden.nefaily818@gmail.com"
 
 sleep 1
 
-echo "\033[34;1m ★Indonesia Security Lite"
+echo "\033[34;1m ★AndroTech1733"
 
 sleep 1
 
