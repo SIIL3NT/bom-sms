@@ -84,7 +84,7 @@ clear
 
 echo "\033[31;1m"
 
-figlet "Mthr Mall"
+figlet "Matahari Mall"
 
 php 3.php
 
@@ -155,15 +155,15 @@ echo "\033[31;1mNama tools: LiteSpam"
 
 sleep 1
 
-echo "\033[33;1mKarya: Mr.Rm (V2 By Mr.IM81)"
+echo "\033[33;1mKarya: Deden.Nefaily (SIL3NT)"
 
 sleep 1
 
-echo "\033[32;1mVersi: v2"
+echo "\033[32;1mVersi: v3"
 
 sleep 1
 
-echo "\033[36;1mTeam: ★Indonesia Security Lite★"
+echo "\033[36;1mTeam: ★AndroTech1733★"
 
 sleep 1
 
@@ -173,19 +173,19 @@ echo "\033[31;1m Spesial Thanks To: "
 
 echo "\033[36;1m"
 
-echo "Handika Pratama"
+echo "AndroTech1733"
 
-echo "まやちゃん"
+echo "SIL3NT"
 
-echo "Baby Cyber Team"
+echo "IndoXploit"
 
-echo "SBG-Team"
+echo "FOX817GTF"
 
-echo "Ponorogo Defacer Team"
+echo "404NotFound"
 
 sleep 1
 
-echo "And All Member Indonesia Security Lite"
+echo "And Anonymous Indonesa"
 
 echo "\033[30;1m tunggu 8 detik"
 
